@@ -261,8 +261,8 @@ p {
 	background: url(img/srchIcon.png) no-repeat;
 	background-size: 22px 23px;
 	position: absolute;
-	right: 5px;
-	top: 13px;
+	right: 10px;
+	top: 10px;
 }
 
 .under_header {
